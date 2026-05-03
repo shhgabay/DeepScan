@@ -1,2 +1,4 @@
 python-docx
 psd-tools
+PyPDF2
+openpyxl
