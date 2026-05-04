@@ -1,0 +1,7 @@
+python-docx
+psd-tools
+PyPDF2
+openpyxl
+customtkinter
+python-bidi
+arabic-reshaper
